@@ -19,5 +19,5 @@ binary diagnosis label (Malignant / Benign).
   (see `crosstab` output in notebook)
 
 ## Files
-- `MachineLearningAssignment.ipynb` — full analysis
+- `ML.ipynb` — full analysis
 - `data.csv` — dataset (from Kaggle)
